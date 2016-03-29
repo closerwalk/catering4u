@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="OriginalEvent.php" server="23.20.75.160//var/www/G095RC/" local="130153752840000000" remote="130153752840000000" />
+<file name="EventStatus.php" server="23.20.75.160//var/www/G095RC/" local="130153752810000000" remote="130153752810000000" />
+<file name="AttendeeStatus.php" server="23.20.75.160//var/www/G095RC/" local="130153752800000000" remote="130153752800000000" />
+<file name="Reminder.php" server="23.20.75.160//var/www/G095RC/" local="130153752850000000" remote="130153752850000000" />
+<file name="Visibility.php" server="23.20.75.160//var/www/G095RC/" local="130153752860000000" remote="130153752860000000" />
+<file name="Recurrence.php" server="23.20.75.160//var/www/G095RC/" local="130153752840000000" remote="130153752840000000" />
+<file name="Who.php" server="23.20.75.160//var/www/G095RC/" local="130153752870000000" remote="130153752870000000" />
+<file name="Transparency.php" server="23.20.75.160//var/www/G095RC/" local="130153752850000000" remote="130153752850000000" />
+<file name="When.php" server="23.20.75.160//var/www/G095RC/" local="130153752860000000" remote="130153752860000000" />
+<file name="Comments.php" server="23.20.75.160//var/www/G095RC/" local="130153752810000000" remote="130153752810000000" />
+<file name="OpenSearchStartIndex.php" server="23.20.75.160//var/www/G095RC/" local="130153752830000000" remote="130153752830000000" />
+<file name="EntryLink.php" server="23.20.75.160//var/www/G095RC/" local="130153752810000000" remote="130153752810000000" />
+<file name="OpenSearchItemsPerPage.php" server="23.20.75.160//var/www/G095RC/" local="130153752820000000" remote="130153752820000000" />
+<file name="AttendeeType.php" server="23.20.75.160//var/www/G095RC/" local="130153752800000000" remote="130153752800000000" />
+<file name="Rating.php" server="23.20.75.160//var/www/G095RC/" local="130153752840000000" remote="130153752840000000" />
+<file name="FeedLink.php" server="23.20.75.160//var/www/G095RC/" local="130153752820000000" remote="130153752820000000" />
+<file name="OpenSearchTotalResults.php" server="23.20.75.160//var/www/G095RC/" local="130153752830000000" remote="130153752830000000" />
+<file name="RecurrenceException.php" server="23.20.75.160//var/www/G095RC/" local="130153752850000000" remote="130153752850000000" />
+<file name="Where.php" server="23.20.75.160//var/www/G095RC/" local="130153752870000000" remote="130153752870000000" />
+<file name="ExtendedProperty.php" server="23.20.75.160//var/www/G095RC/" local="130153752820000000" remote="130153752820000000" />
+<file name="AttendeeStatus.php" server="64.183.41.50:8022//var/www/cateringservices4u/" local="130208798260000000" remote="130208798260000000" />
+<file name="AttendeeType.php" server="64.183.41.50:8022//var/www/cateringservices4u/" local="130208798260000000" remote="130208798260000000" />
+<file name="Comments.php" server="64.183.41.50:8022//var/www/cateringservices4u/" local="130208798270000000" remote="130208798270000000" />
+<file name="EntryLink.php" server="64.183.41.50:8022//var/www/cateringservices4u/" local="130208798270000000" remote="130208798270000000" />
+<file name="EventStatus.php" server="64.183.41.50:8022//var/www/cateringservices4u/" local="130208798270000000" remote="130208798270000000" />
+<file name="ExtendedProperty.php" server="64.183.41.50:8022//var/www/cateringservices4u/" local="130208798270000000" remote="130208798270000000" />
+<file name="FeedLink.php" server="64.183.41.50:8022//var/www/cateringservices4u/" local="130208798270000000" remote="130208798270000000" />
+<file name="OpenSearchItemsPerPage.php" server="64.183.41.50:8022//var/www/cateringservices4u/" local="130208798270000000" remote="130208798270000000" />
+<file name="OpenSearchStartIndex.php" server="64.183.41.50:8022//var/www/cateringservices4u/" local="130208798270000000" remote="130208798270000000" />
+<file name="OpenSearchTotalResults.php" server="64.183.41.50:8022//var/www/cateringservices4u/" local="130208798280000000" remote="130208798280000000" />
+<file name="OriginalEvent.php" server="64.183.41.50:8022//var/www/cateringservices4u/" local="130208798280000000" remote="130208798280000000" />
+<file name="Rating.php" server="64.183.41.50:8022//var/www/cateringservices4u/" local="130208798280000000" remote="130208798280000000" />
+<file name="Recurrence.php" server="64.183.41.50:8022//var/www/cateringservices4u/" local="130208798280000000" remote="130208798280000000" />
+<file name="RecurrenceException.php" server="64.183.41.50:8022//var/www/cateringservices4u/" local="130208798280000000" remote="130208798280000000" />
+<file name="Reminder.php" server="64.183.41.50:8022//var/www/cateringservices4u/" local="130208798280000000" remote="130208798280000000" />
+<file name="Transparency.php" server="64.183.41.50:8022//var/www/cateringservices4u/" local="130208798280000000" remote="130208798280000000" />
+<file name="Visibility.php" server="64.183.41.50:8022//var/www/cateringservices4u/" local="130208798280000000" remote="130208798280000000" />
+<file name="When.php" server="64.183.41.50:8022//var/www/cateringservices4u/" local="130208798290000000" remote="130208798290000000" />
+<file name="Where.php" server="64.183.41.50:8022//var/www/cateringservices4u/" local="130208798290000000" remote="130208798290000000" />
+<file name="Who.php" server="64.183.41.50:8022//var/www/cateringservices4u/" local="130208798290000000" remote="130208798290000000" />
+</dwsync>

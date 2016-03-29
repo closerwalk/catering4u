@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AuthException.php" server="23.20.75.160//var/www/G095RC/" local="130153752140000000" remote="130153752140000000" />
+<file name="InvalidArgumentException.php" server="23.20.75.160//var/www/G095RC/" local="130153752330000000" remote="130153752330000000" />
+<file name="IOException.php" server="23.20.75.160//var/www/G095RC/" local="130153752340000000" remote="130153752340000000" />
+<file name="LoggingHttpClientAdapterSocket.php" server="23.20.75.160//var/www/G095RC/" local="130153752340000000" remote="130153752340000000" />
+<file name="CaptchaRequiredException.php" server="23.20.75.160//var/www/G095RC/" local="130153752150000000" remote="130153752150000000" />
+<file name="HttpException.php" server="23.20.75.160//var/www/G095RC/" local="130153752300000000" remote="130153752300000000" />
+<file name="Entry.php" server="23.20.75.160//var/www/G095RC/" local="130153752160000000" remote="130153752160000000" />
+<file name="Base.php" server="23.20.75.160//var/www/G095RC/" local="130153752150000000" remote="130153752150000000" />
+<file name="BaseMediaSource.php" server="23.20.75.160//var/www/G095RC/" local="130153752150000000" remote="130153752150000000" />
+<file name="Exception.php" server="23.20.75.160//var/www/G095RC/" local="130153752160000000" remote="130153752160000000" />
+<file name="Feed.php" server="23.20.75.160//var/www/G095RC/" local="130153752280000000" remote="130153752280000000" />
+<file name="MediaSource.php" server="23.20.75.160//var/www/G095RC/" local="130153752350000000" remote="130153752350000000" />
+<file name="BadMethodCallException.php" server="23.20.75.160//var/www/G095RC/" local="130153752140000000" remote="130153752140000000" />
+<file name="FeedSourceParent.php" server="23.20.75.160//var/www/G095RC/" local="130153752290000000" remote="130153752290000000" />
+<file name="Extension.php" server="23.20.75.160//var/www/G095RC/" local="130153752280000000" remote="130153752280000000" />
+<file name="FeedEntryParent.php" server="23.20.75.160//var/www/G095RC/" local="130153752290000000" remote="130153752290000000" />
+<file name="Util.php" server="23.20.75.160//var/www/G095RC/" local="130153752360000000" remote="130153752360000000" />
+<file name="MediaEntry.php" server="23.20.75.160//var/www/G095RC/" local="130153752350000000" remote="130153752350000000" />
+<file name="VersionException.php" server="23.20.75.160//var/www/G095RC/" local="130153752380000000" remote="130153752380000000" />
+<file name="MediaFileSource.php" server="23.20.75.160//var/www/G095RC/" local="130153752350000000" remote="130153752350000000" />
+<file name="AuthException.php" server="64.183.41.50:8022//var/www/cateringservices4u/" local="130208798020000000" remote="130208798020000000" />
+<file name="BadMethodCallException.php" server="64.183.41.50:8022//var/www/cateringservices4u/" local="130208798020000000" remote="130208798020000000" />
+<file name="Base.php" server="64.183.41.50:8022//var/www/cateringservices4u/" local="130208798020000000" remote="130208798020000000" />
+<file name="BaseMediaSource.php" server="64.183.41.50:8022//var/www/cateringservices4u/" local="130208798020000000" remote="130208798020000000" />
+<file name="CaptchaRequiredException.php" server="64.183.41.50:8022//var/www/cateringservices4u/" local="130208798030000000" remote="130208798030000000" />
+<file name="Entry.php" server="64.183.41.50:8022//var/www/cateringservices4u/" local="130208798030000000" remote="130208798030000000" />
+<file name="Exception.php" server="64.183.41.50:8022//var/www/cateringservices4u/" local="130208798030000000" remote="130208798030000000" />
+<file name="Extension.php" server="64.183.41.50:8022//var/www/cateringservices4u/" local="130208798090000000" remote="130208798090000000" />
+<file name="Feed.php" server="64.183.41.50:8022//var/www/cateringservices4u/" local="130208798090000000" remote="130208798090000000" />
+<file name="FeedEntryParent.php" server="64.183.41.50:8022//var/www/cateringservices4u/" local="130208798090000000" remote="130208798090000000" />
+<file name="FeedSourceParent.php" server="64.183.41.50:8022//var/www/cateringservices4u/" local="130208798090000000" remote="130208798090000000" />
+<file name="HttpException.php" server="64.183.41.50:8022//var/www/cateringservices4u/" local="130208798090000000" remote="130208798090000000" />
+<file name="InvalidArgumentException.php" server="64.183.41.50:8022//var/www/cateringservices4u/" local="130208798090000000" remote="130208798090000000" />
+<file name="IOException.php" server="64.183.41.50:8022//var/www/cateringservices4u/" local="130208798100000000" remote="130208798100000000" />
+<file name="LoggingHttpClientAdapterSocket.php" server="64.183.41.50:8022//var/www/cateringservices4u/" local="130208798100000000" remote="130208798100000000" />
+<file name="MediaEntry.php" server="64.183.41.50:8022//var/www/cateringservices4u/" local="130208798100000000" remote="130208798100000000" />
+<file name="MediaFileSource.php" server="64.183.41.50:8022//var/www/cateringservices4u/" local="130208798100000000" remote="130208798100000000" />
+<file name="MediaSource.php" server="64.183.41.50:8022//var/www/cateringservices4u/" local="130208798100000000" remote="130208798100000000" />
+<file name="Util.php" server="64.183.41.50:8022//var/www/cateringservices4u/" local="130208798100000000" remote="130208798100000000" />
+<file name="VersionException.php" server="64.183.41.50:8022//var/www/cateringservices4u/" local="130208798100000000" remote="130208798100000000" />
+</dwsync>

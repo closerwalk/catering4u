@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="WorksheetIterator.php" server="23.20.75.160//var/www/G095RC/" local="130149256950000000" remote="130149256950000000" />
+<file name="Autoloader.php" server="23.20.75.160//var/www/G095RC/" local="130153758430000000" remote="130153758430000000" />
+<file name="Cell.php" server="23.20.75.160//var/www/G095RC/" local="130153758650000000" remote="130153758650000000" />
+<file name="IComparable.php" server="23.20.75.160//var/www/G095RC/" local="130153758660000000" remote="130153758660000000" />
+<file name="Worksheet.php" server="23.20.75.160//var/www/G095RC/" local="130149256950000000" remote="130149256950000000" />
+<file name="Settings.php" server="23.20.75.160//var/www/G095RC/" local="130153759230000000" remote="130153759230000000" />
+<file name="PHPExcel_Writer_pdf.php" server="23.20.75.160//var/www/G095RC/" local="130153759070000000" remote="130153759070000000" />
+<file name="DocumentProperties.php" server="23.20.75.160//var/www/G095RC/" local="130153758650000000" remote="130153758650000000" />
+<file name="ReferenceHelper.php" server="23.20.75.160//var/www/G095RC/" local="130153759190000000" remote="130153759190000000" />
+<file name="NamedRange.php" server="23.20.75.160//var/www/G095RC/" local="130153759070000000" remote="130153759070000000" />
+<file name="DocumentSecurity.php" server="23.20.75.160//var/www/G095RC/" local="130153758660000000" remote="130153758660000000" />
+<file name="RichText.php" server="23.20.75.160//var/www/G095RC/" local="130153759230000000" remote="130153759230000000" />
+<file name="Calculation.php" server="23.20.75.160//var/www/G095RC/" local="130153758600000000" remote="130153758600000000" />
+<file name="Style.php" server="23.20.75.160//var/www/G095RC/" local="130149256810000000" remote="130149256810000000" />
+<file name="Autoloader.php.bak" server="23.20.75.160//var/www/G095RC/" local="130153758440000000" remote="130153758440000000" />
+<file name="IOFactory.php" server="23.20.75.160//var/www/G095RC/" local="130153758670000000" remote="130153758670000000" />
+<file name="CachedObjectStorageFactory.php" server="23.20.75.160//var/www/G095RC/" local="130153758500000000" remote="130153758500000000" />
+<file name="HashTable.php" server="23.20.75.160//var/www/G095RC/" local="130153758660000000" remote="130153758660000000" />
+<file name="Comment.php" server="23.20.75.160//var/www/G095RC/" local="130153758650000000" remote="130153758650000000" />
+<file name="Autoloader.php" server="64.183.41.50:8022//var/www/cateringservices4u/" local="130208800410000000" remote="130208800410000000" />
+<file name="Autoloader.php.bak" server="64.183.41.50:8022//var/www/cateringservices4u/" local="130208800420000000" remote="130208800420000000" />
+<file name="CachedObjectStorageFactory.php" server="64.183.41.50:8022//var/www/cateringservices4u/" local="130208800450000000" remote="130208800450000000" />
+<file name="Calculation.php" server="64.183.41.50:8022//var/www/cateringservices4u/" local="130208800520000000" remote="130208800520000000" />
+<file name="Cell.php" server="64.183.41.50:8022//var/www/cateringservices4u/" local="130208800540000000" remote="130208800540000000" />
+<file name="Comment.php" server="64.183.41.50:8022//var/www/cateringservices4u/" local="130208800540000000" remote="130208800540000000" />
+<file name="DocumentProperties.php" server="64.183.41.50:8022//var/www/cateringservices4u/" local="130208800550000000" remote="130208800550000000" />
+<file name="DocumentSecurity.php" server="64.183.41.50:8022//var/www/cateringservices4u/" local="130208800550000000" remote="130208800550000000" />
+<file name="HashTable.php" server="64.183.41.50:8022//var/www/cateringservices4u/" local="130208800550000000" remote="130208800550000000" />
+<file name="IComparable.php" server="64.183.41.50:8022//var/www/cateringservices4u/" local="130208800550000000" remote="130208800550000000" />
+<file name="IOFactory.php" server="64.183.41.50:8022//var/www/cateringservices4u/" local="130208800560000000" remote="130208800560000000" />
+<file name="NamedRange.php" server="64.183.41.50:8022//var/www/cateringservices4u/" local="130208800710000000" remote="130208800710000000" />
+<file name="PHPExcel_Writer_pdf.php" server="64.183.41.50:8022//var/www/cateringservices4u/" local="130208800710000000" remote="130208800710000000" />
+<file name="ReferenceHelper.php" server="64.183.41.50:8022//var/www/cateringservices4u/" local="130208800750000000" remote="130208800750000000" />
+<file name="RichText.php" server="64.183.41.50:8022//var/www/cateringservices4u/" local="130208800760000000" remote="130208800760000000" />
+<file name="Settings.php" server="64.183.41.50:8022//var/www/cateringservices4u/" local="130208800760000000" remote="130208800760000000" />
+<file name="Style.php" server="64.183.41.50:8022//var/www/cateringservices4u/" local="130208801710000000" remote="130208801710000000" />
+<file name="Worksheet.php" server="64.183.41.50:8022//var/www/cateringservices4u/" local="130208801750000000" remote="130208801750000000" />
+<file name="WorksheetIterator.php" server="64.183.41.50:8022//var/www/cateringservices4u/" local="130208801750000000" remote="130208801750000000" />
+</dwsync>
